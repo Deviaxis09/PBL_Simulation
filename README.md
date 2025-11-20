@@ -31,7 +31,7 @@ This will generate trace files, including XML output for NetAnim.
     Open NetAnim:
 
     ./NetAnim
-
+ 
     Load the XML animation:
 
         bus-attacker.xml
